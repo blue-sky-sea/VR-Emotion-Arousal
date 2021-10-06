@@ -2,6 +2,10 @@
 基于VR的情感唤起
 
 # How to update file bigger than 25mb
+#install lfs
+$brew install git-lfs </br>
+or </br>
+install at https://git-lfs.github.com </br>
 
 #cd to your workpath </br>
 $cd YOUR_DIR_PATH
