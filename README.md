@@ -1,6 +1,18 @@
+========================================================================
+
 # VR-Emotion-Arousal
 基于VR的情感唤起
 
+========================================================================
+
+![image](https://user-images.githubusercontent.com/26008298/132282618-0440b99c-af47-4e75-9c45-2253ba94f59d.png)
+
+========================================================================
+
+| author | mizukiyuta | <br />   
+| department | Tokyo Metropolitan University System Design |  <br />
+
+========================================================================
 # How to update file bigger than 25mb
 #install lfs
 $brew install git-lfs </br>
