@@ -13,6 +13,10 @@
 | department | Tokyo Metropolitan University System Design |  <br />
 
 ========================================================================
+# data
+ECG
+EEG
+self-report
 # How to update file bigger than 25mb
 #install lfs
 $brew install git-lfs </br>
