@@ -17,6 +17,12 @@
 ECG
 EEG
 self-report
+
+# Experiment
+One-person in VR relax，relax，sad，fear，disgust，joy
+
+Two-person in VR relax，sad，Fear，Joy  meeting in VRworkroom
+
 # How to update file bigger than 25mb
 #install lfs
 $brew install git-lfs </br>
