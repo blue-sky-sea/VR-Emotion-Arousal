@@ -23,6 +23,13 @@ One-person in VR relax，relax，sad，fear，disgust，joy
 
 Two-person in VR relax，sad，Fear，Joy  meeting in VRworkroom
 
+
+# Personal difference
+By seeing the Distribution of data, We found some featrues may have personal differences
+we found fat people have a less pnn20,pnn50
+we found a collaborator have a much higher pnn20,pnn50 in relax and sad mode
+
+
 # How to update file bigger than 25mb
 #install lfs
 $brew install git-lfs </br>
