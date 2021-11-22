@@ -27,7 +27,8 @@ Two-person in VR relax，sad，Fear，Joy  meeting in VRworkroom
 # Personal difference
 By seeing the Distribution of data, We found some featrues may have personal differences
 we found fat people have a less pnn20,pnn50(one of them have a nearly 0 pnn50 for all sections)
-we found a collaborator have a much higher pnn20,pnn50 in relax and sad mode(8,normal people are about 1~3),and higher pnn50 in Fear,Disgust(15,normal people are about 8~10)
+we found a collaborator have a much higher pnn20,pnn50 in relax and sad mode (about 8,normal people are about 1~3)  
+and higher pnn50 in Fear,Disgust (about 15,normal people are about 8~10)
 
 
 # How to update file bigger than 25mb
