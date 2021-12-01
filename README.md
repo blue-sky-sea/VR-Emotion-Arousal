@@ -31,6 +31,10 @@ we found a collaborator have a much higher pnn20,pnn50 in relax and sad mode (ab
 and higher pnn50 in Fear,Disgust (about 15,normal people are about 8~10)
 
 
+# algorithm
+SVM KNN Naive Bayes  
+CNN LSTM CNN-LSTM  
+
 # How to update file bigger than 25mb
 #install lfs
 $brew install git-lfs </br>
